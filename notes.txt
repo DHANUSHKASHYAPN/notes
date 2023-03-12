@@ -1,0 +1,13 @@
+file permissions
+
+absolute and relative
+absolute (set permission to all the bits)
+--use decimal/octal/numeric
+chmod 555 sample.txt
+
+relative( set permission to few and leave rest)
+-- use alphabets
+chmod u+a sample.txt 
+
+chown and chgroup
+
